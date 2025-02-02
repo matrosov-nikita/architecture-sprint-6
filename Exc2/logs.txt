@@ -1,0 +1,6 @@
+Normal    SuccessfulRescale              horizontalpodautoscaler/scaletestapp-hpa   New size: 2; reason: memory resource utilization (percentage of request) above target
+Normal    SuccessfulRescale              horizontalpodautoscaler/scaletestapp-hpa   New size: 3; reason: memory resource utilization (percentage of request) above target
+Normal    SuccessfulRescale              horizontalpodautoscaler/scaletestapp-hpa   New size: 4; reason: memory resource utilization (percentage of request) above target
+Normal    SuccessfulRescale              horizontalpodautoscaler/scaletestapp-hpa   New size: 5; reason: memory resource utilization (percentage of request) above target
+Normal    SuccessfulRescale              horizontalpodautoscaler/scaletestapp-hpa   New size: 6; reason: memory resource utilization (percentage of request) above target
+Normal    SuccessfulRescale              horizontalpodautoscaler/scaletestapp-hpa   New size: 7; reason: memory resource utilization (percentage of request) above target

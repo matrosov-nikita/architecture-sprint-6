@@ -19,7 +19,7 @@ spec:
           image: shestera/scaletestapp
           resources:
             requests:
-              memory: "20Mi"
+              memory: "19Mi"
             limits:
               memory: "30Mi"
           ports:
