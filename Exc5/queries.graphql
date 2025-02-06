@@ -1,0 +1,30 @@
+query GetClient {
+    client(id: "123") {
+        id
+        name
+        age
+    }
+}
+
+query GetClientDocuments {
+    client(id: "123") {
+        documents {
+            id
+            type
+            number
+            issueDate
+            expiryDate
+        }
+    }
+}
+
+query GetClientRelatives{
+    client(id: "123") {
+        relatives {
+            id
+            relationType
+            name
+            age
+        }
+    }
+}
